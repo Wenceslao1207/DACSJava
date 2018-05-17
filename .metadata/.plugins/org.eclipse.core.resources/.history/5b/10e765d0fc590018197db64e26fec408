@@ -1,0 +1,5 @@
+package ar.edu.utin.frre.tpidacs.model;
+
+public abstract class BaseEntity {
+
+}

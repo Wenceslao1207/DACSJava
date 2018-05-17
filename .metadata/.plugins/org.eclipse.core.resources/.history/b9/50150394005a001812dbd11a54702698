@@ -1,0 +1,8 @@
+package ar.edu.utn.frre.tpidacs.model;
+
+import javax.persistence.*;
+
+
+public class models {
+
+}

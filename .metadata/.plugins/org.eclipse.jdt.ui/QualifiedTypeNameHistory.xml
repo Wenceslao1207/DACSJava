@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="javax.validation.Constraint"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Past"/>
+</qualifiedTypeNameHistroy>
